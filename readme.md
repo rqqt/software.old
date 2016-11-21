@@ -1,0 +1,1 @@
+Simple Windows GUI for ScanCL (Avira AntiVir Command Line Scanner).
